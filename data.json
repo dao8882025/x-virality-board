@@ -1,20 +1,200 @@
 {
-  "title": "Daily X narrative digest \u2014 test scaffold",
+  "title": "Daily X narrative digest \u2014 2026-09-27 (test run)",
   "date": "2026-09-27",
   "timezone": "America/Los_Angeles",
-  "updated": "2026-09-27T14:59:00.095144-07:00",
+  "updated": "2026-09-27T15:04:04.156234-07:00",
   "brand_title": "Robert Lufkin MD \u00b7 X Virality Score",
   "brand_handle": "@robertlufkinmd",
-  "hits": [],
+  "hits": [
+    {
+      "display_name": "Nick Norwitz MD PhD",
+      "handle": "@nicknorwitz",
+      "views": 51114,
+      "views_label": "51.1K",
+      "highlight": true,
+      "url": "https://x.com/nicknorwitz/status/2103843004930744471",
+      "status_url": "https://x.com/nicknorwitz/status/2103843004930744471",
+      "hook": "Carnivore as a tool, not a religion \u2014 51K views on a calm Epoch Times frame.",
+      "text": "Kudos to @MikhailaFuller for sharing her story with The @EpochTimes and discussing the carnivore diet in a way that is not dogmatic nor tribal. theepochtimes.com/health/the-sur Conclusion: \"Maybe we\u2019ve been framing the carnivore diet wrong all along: it\u2019s not a religion to join or a movement to mock, but a tool...occasionally exactly the right tool for the right person at the right moment in their life. It deserves rigorous study, an open mind, and above all, curiosity.\" If you don\u2019t think that\u2019s reasonable, I\u2019d take a look in the mirror.",
+      "draft_en": "We\u2019ve been arguing about carnivore like it\u2019s a church.\n\nIt isn\u2019t.\n\nIt\u2019s a tool. Sometimes the right tool for the right person at the right moment. Mikhaila Fuller said it without the tribe war, and that framing is overdue.\n\nStudy it. Stay curious. Drop the purity contests.\n\nIf that sounds unreasonable, the mirror might be the better lab.",
+      "video_tip": "12\u201315s: split screen religion icons vs a wrench labeled \u201ctool,\u201d cut to calm quote card: \u201coccasionally the right tool.\u201d End with \u201cstudy it.\u201d"
+    },
+    {
+      "display_name": "Nick Norwitz MD PhD",
+      "handle": "@nicknorwitz",
+      "views": 9007,
+      "views_label": "9.0K",
+      "highlight": false,
+      "url": "https://x.com/nicknorwitz/status/2104171159092604937",
+      "status_url": "https://x.com/nicknorwitz/status/2104171159092604937",
+      "hook": "\u201cAttention problems\u201d may be sleep problems \u2014 Cell + fMRI on ~12k kids; stimulants left attention networks untouched.",
+      "text": "Why You Can\u2019t Focus \ud83e\udde0 \ud83e\uddf5 1/5) New research in Cell suggests what we call \u201cattention problems\u201d may be sleep problems wearing a disguise. Here's the deal: stimulants like Ritalin and Vyvanse have been prescribed for ~90 years on one assumption: they turn up the brain\u2019s \u201cattention machinery.\u201d But when a team at Washington University conducted fMRI brain scans on nearly 12,000 kids, and then adults on and off a stimulant, to watch what the drugs actually do inside the brain... what the found surprised me. The attention networks were untouched.",
+      "draft_en": "We call it an attention crisis.\n\nCell just suggested a lot of it may be a sleep crisis in a costume.\n\nStimulants have been prescribed for ~90 years on one story: they turn up the brain\u2019s attention machinery. Washington University scanned nearly 12,000 kids, then adults on and off a stimulant. The attention networks barely moved.\n\nIf the drug works and those networks don\u2019t light up, we may be treating the wrong lever.\n\nBefore you optimize focus, ask what night you just lived.",
+      "video_tip": "20s thread opener: tired eyes \u2192 brain scan still \u2192 text \u201cattention networks: untouched.\u201d CTA: \u201ccheck sleep first.\u201d"
+    },
+    {
+      "display_name": "Nick Norwitz MD PhD",
+      "handle": "@nicknorwitz",
+      "views": 5165,
+      "views_label": "5.2K",
+      "highlight": false,
+      "url": "https://x.com/nicknorwitz/status/2104205123220132315",
+      "status_url": "https://x.com/nicknorwitz/status/2104205123220132315",
+      "hook": "Diet soda debate with receipts: Nature saccharin study, microbiome transfer, glucose tolerance drop in 4/7 people.",
+      "text": "Diet Soda Debate: What Everyone (Still) Gets Wrong I recently posted some short-form content about \"what everybody gets wrong about diet soda.\" As not only anticipated, but intended, there were split opinions. So let me use that as a springboard to clarify. And I\u2019ll open with a question: How much of your health are you willing to gamble? What you\u2019re seeing below are data from a human study published in Nature (PMID: 25231862). Researchers took people who didn\u2019t normally consume artificial sweeteners and gave them non-caloric artificial sweeteners (NAS) for seven days. 4 of the 7 people developed worse glucose tolerance on an oral glucose tolerance test, which you can see below. And we have evidence that the effect was mediated by disruption of the microbiome. Researchers took microbiome samples from these people before and after artificial-sweetener exposure and effectively did poop transplants into mice. The microbiota collected after exposure could transfer the impaired glucose response to the animals. So the proposed chain of events is: Artificial sweetener \u2192 altered microbiome \u2192 impaired glucose tolerance. Quoting \"Collectively, our results link non-caloric artificial sweetener (NAS) consumption, dysbiosis and metabolic abnormalities, thereby calling for a reassessment of massive NAS usage.\" Now, critics will correctly point out that this was a small human study coupled with mechanistic animal work. True. It\u2019s rather difficult to do a 100,000-person interventional trial involving microbiome transplants. What we have here is precision, not scale. And that leaves a huge open question: if a little over half of participants responded adversely over just one week, how frequently does that happen in the broader population? And what differentiates responders from non-responders? We don\u2019t know yet. So if you want to consume artificial sweeteners, go ahead. The sweetener used in this particular human experiment was saccharin, and the exact same experiment was not performed with aspartame, as found in Diet Coke. In fairness, that distinction matters. But that\u2019s absence of evidence (re: aspartame and this singular outcome), not evidence of absence. Which brings me back to the question: What do you want to gamble? Open question. Another question is: is there a smarter choice? Like stevia, allulose, or monkfruit. My answer is yes. Another response I frequently get is people hand-waving toward large meta-analyses and trials. But look carefully at what some of these studies are comparing. The SWEET study is often cited (PMID: 41057614). But in this study artificial sweeteners are compared to a regular sugar group as a control. \"One group replaced sugar-rich products with sweetness enhancers (S&SEs).\" So, if you want to force a binary choice between Diet Coke and regular Coke, then okay, replacing a large amount of sugar with a non-caloric alternative may have advantages. But I think that\u2019s a dumb binary, frankly. It's forced. It's like asking me whether I'd rather drop an anvil on my foot or stab my hand. Can't I choose neither? (It's an analogy folks - not meant to represent proportional harm.) Anyway, at the end of the day, I don\u2019t care what you drink. Diet soda. Regular soda. Milkshakes. You're an adult. Make your own choices. Just don't be the diet soda defender who sticks their head in the sand. Thanks and have a lovely Sunday :)",
+      "draft_en": "\u201cZero calorie\u201d is not the same as \u201czero metabolic cost.\u201d\n\nA Nature human study (PMID 25231862) gave non-caloric artificial sweeteners for seven days to people who didn\u2019t normally use them. Four of seven got worse glucose tolerance. Microbiome samples from after exposure transferred that impairment into mice.\n\nChain: sweetener \u2192 microbiome shift \u2192 worse glucose response.\n\nSmall study. High precision, low scale. The sweetener was saccharin, not necessarily every can of Diet Coke. That distinction matters. Absence of the same trial on aspartame is not proof of safety.\n\nAlso stop comparing diet soda only to sugar soda. That is a forced binary. You can choose neither.\n\nAdults can drink what they want. Just don\u2019t pretend the metabolism ledger is blank because the label says zero.",
+      "video_tip": "25\u201335s whiteboard: can \u2192 gut icons \u2192 OGTT curve up. Overlay \u201c4 of 7.\u201d End: \u201czero calorie \u2260 zero cost.\u201d"
+    },
+    {
+      "display_name": "Sama Hoole",
+      "handle": "@SamaHoole",
+      "views": 15108,
+      "views_label": "15.1K",
+      "highlight": true,
+      "url": "https://x.com/SamaHoole/status/2104261329393463330",
+      "status_url": "https://x.com/SamaHoole/status/2104261329393463330",
+      "hook": "2,300 years of animal food for the sick, then one decade of trays and a chart.",
+      "text": "Sick in 400 BC and Hippocrates puts you on milk. Sick in 1200 and the monastery infirmary puts you on broth off the bone and an egg beaten in wine. Sick in 1780 and the physician puts you on beef tea, port and a raw egg at bedtime. Sick in 1860 and Florence Nightingale puts you on beef tea, cream and eggs, and writes a book insisting on it. Sick in 1900 with consumption and the sanatorium puts you on a pint of milk every two hours and eggs by the dozen. Sick in 1930 with diabetes and the ward puts you on meat and fat, because the ward has watched what bread does. Sick in 1955 on the NHS and the trolley puts you on mince, butter on the potato, a milk pudding and a malted drink at nine. Sick in 1985 and the tray puts you on low-fat spread, skimmed milk, orange juice and a note about your cholesterol. Sick in 2026 and the tray puts you on cornflakes, a sandwich in a triangle, jelly and a beaker of squash, with a diet sheet on the way out. For 2,300 years every doctor on earth fed the sick the animal, because the sick got better on it and everyone in the room could watch it happen. The tray abandoned that in a single decade, on the strength of a chart. The patients did not get better. The catering budget did.",
+      "draft_en": "For most of medical history, sick people got milk, bone broth, eggs, beef tea, cream, meat and fat.\n\nDoctors did it because the patient in the bed got stronger, and everyone in the room could see it.\n\nThen the tray changed in about a decade: low-fat spread, skim milk, juice, cornflakes, a triangle sandwich, jelly, and a diet sheet.\n\nThe chart won. The patient did not.\n\nIf your recovery food looks like a vending machine, ask who the tray was optimized for.",
+      "video_tip": "18s timeline: Hippocrates \u2192 Nightingale \u2192 1955 trolley \u2192 2026 tray. Punchline card: \u201cThe chart won. The patient did not.\u201d"
+    },
+    {
+      "display_name": "Sama Hoole",
+      "handle": "@SamaHoole",
+      "views": 12870,
+      "views_label": "12.8K",
+      "highlight": true,
+      "url": "https://x.com/SamaHoole/status/2104296055164542988",
+      "status_url": "https://x.com/SamaHoole/status/2104296055164542988",
+      "hook": "\u201cMy body needed carbs\u201d after lean cuts + fasting = rabbit starvation, not a carb signal.",
+      "text": "\"So I quit carnivore. My body just told me it needed carbs.\" What were you eating at the end? \"Lean steak, mostly. Chicken. Egg whites. I was cutting.\" Any fat? \"I'd trimmed it back. For the physique.\" Fasting? \"Till noon. Sometimes 2pm.\" How did you feel? \"Exhausted. Cold. No sleep. Cravings like you wouldn't believe.\" That's rabbit starvation. It's in the trapper's manuals from 200 years ago. Belly full of lean meat, body running out of fuel. \"It was my body asking for carbs.\" It was your body asking for fat. You took the fat off the plate, and when it got desperate it asked for the nearest fuel it could think of, which is the one you spent your twenties eating. \"Honey fixed it.\" Butter would have fixed it. So would the cap you binned. \"I think carnivore is just unsustainable for most people.\" You didn't do carnivore. You did a bodybuilding cut with the rice removed and called it the diet. \"You sound dogmatic.\" Six years. Fatty mince, eggs, butter, never hungry, never once dreamt about bread. What did you dream about? \"Bread.\" There's your study.",
+      "draft_en": "\u201cI quit carnivore. My body needed carbs.\u201d\n\nWhat were you eating? Lean steak. Chicken. Egg whites. Fasting until noon. Fat trimmed \u201cfor the physique.\u201d\n\nExhausted. Cold. No sleep. Cravings.\n\nThat\u2019s rabbit starvation. Trappers wrote it down 200 years ago: belly full of lean meat, body out of fuel.\n\nIt wasn\u2019t a carb request. It was a fat request, answered with the fuel you trained yourself to crave.\n\nHoney fixed the crash. Butter would have too.\n\nYou didn\u2019t fail carnivore. You ran a bodybuilding cut without the rice and named it a diet.",
+      "video_tip": "Dialogue reel 20\u201325s: Q&A cuts, then stamp \u201cRABBIT STARVATION.\u201d End: \u201cadd the fat back.\u201d"
+    },
+    {
+      "display_name": "Sama Hoole",
+      "handle": "@SamaHoole",
+      "views": 6404,
+      "views_label": "6.4K",
+      "highlight": false,
+      "url": "https://x.com/SamaHoole/status/2104273029861900677",
+      "status_url": "https://x.com/SamaHoole/status/2104273029861900677",
+      "hook": "LDL as delivery van; seed-oil linoleic acid as the cargo that catches fire.",
+      "text": "Blaming cholesterol for heart disease is blaming the delivery van for the fire in the warehouse. LDL is a van. It carries fat, cholesterol and fat-soluble vitamins to every cell that orders them, and it is parked outside a damaged artery for the same reason a van is parked outside a building site: something needed delivering. That is the whole case against it. The van was there. Nobody asked what was in the back. What is in the back is the fat you ate. Pack the van with saturated fat and nothing happens on a hot day, because saturated fat has no double bond and cannot catch. Pack it with linoleic acid, which has two, and the load goes rancid in the heat, sets the van alight, and the fire spreads into the wall it was parked against. Linoleic acid is the seed oil. The fryer, the loaf, the spread, the sauce. So the vans are on fire, and the loading bay has been filling them with the same oil since 1911. The answer was a tablet to take vans off the road. Fewer deliveries. Same cargo. Same fires.",
+      "draft_en": "Blaming LDL for heart disease is blaming the delivery van for the warehouse fire.\n\nLDL carries fat, cholesterol, and fat-soluble vitamins to cells that ordered them. It parks at a damaged artery for the same reason a van parks at a job site: something needed delivering.\n\nThe case against the van is usually: it was there.\n\nAsk what was in the back.\n\nSaturated fat doesn\u2019t catch the same way. Linoleic acid from seed oils has the double bonds that go rancid in heat. Fryer. Loaf. Spread. Sauce. Loading bay open since 1911.\n\nWe answered with a tablet that takes vans off the road. Fewer deliveries. Same cargo. Same fires.\n\nChange the cargo before you only count the vans.",
+      "video_tip": "15s metaphor: van \u2192 cargo swap (butter vs bottle of oil) \u2192 artery wall glow. End: \u201cchange the cargo.\u201d"
+    },
+    {
+      "display_name": "Andrew D. Huberman, Ph.D.",
+      "handle": "@hubermanlab",
+      "views": 266716,
+      "views_label": "266.7K",
+      "highlight": true,
+      "url": "https://x.com/hubermanlab/status/2103889459217612904",
+      "status_url": "https://x.com/hubermanlab/status/2103889459217612904",
+      "hook": "Ultra-short teaser + portal meme energy \u2014 266K views on six words.",
+      "text": "Someone unlocked the secret portal\u2026",
+      "draft_en": "Six words. A quarter million views.\n\nHuberman\u2019s \u201cSomeone unlocked the secret portal\u2026\u201d is a reminder: on X, the hook can be the whole post if the media does the work.\n\nFor health creators: lead with the mystery, put the mechanism in the reply or the clip.",
+      "video_tip": "Don\u2019t copy the vagueness. Steal the structure: 1-line tease \u2192 cut to the actual finding in under 8s."
+    },
+    {
+      "display_name": "Andrew D. Huberman, Ph.D.",
+      "handle": "@hubermanlab",
+      "views": 154651,
+      "views_label": "154.6K",
+      "highlight": true,
+      "url": "https://x.com/hubermanlab/status/2104039321036894499",
+      "status_url": "https://x.com/hubermanlab/status/2104039321036894499",
+      "hook": "Five-word anticipation post, 154K views.",
+      "text": "Eager to see the outcome!",
+      "draft_en": "\u201cEager to see the outcome!\u201d cleared 150K+ with almost no text.\n\nPattern: public curiosity as social proof. Use when you dropped a claim and want the crowd to pull the result.",
+      "video_tip": "Pair with a countdown sticker or \u201cresults drop at \u2026\u201d card; text stays five words max."
+    },
+    {
+      "display_name": "Andrew D. Huberman, Ph.D.",
+      "handle": "@hubermanlab",
+      "views": 136168,
+      "views_label": "136.1K",
+      "highlight": true,
+      "url": "https://x.com/hubermanlab/status/2104288936214560910",
+      "status_url": "https://x.com/hubermanlab/status/2104288936214560910",
+      "hook": "Collab tease with a punchy quote \u2014 136K.",
+      "text": "This one got a little wild\u2026 @calebpressley said \u201cit\u2019s is like 60 minutes but only 5 minutes\u201d, so I dove in\u2026",
+      "draft_en": "Wild-collab teases still crush when the quote is concrete (\u201c60 Minutes in 5 minutes\u201d).\n\nBorrow the line structure, then deliver the dense clip.",
+      "video_tip": "Open on the guest quote as text-on-screen, then hard cut into your densest 5 minutes."
+    },
+    {
+      "display_name": "Derya Unutmaz, MD",
+      "handle": "@DeryaTR_",
+      "views": 33951,
+      "views_label": "33.9K",
+      "highlight": true,
+      "url": "https://x.com/DeryaTR_/status/2104051752509300737",
+      "status_url": "https://x.com/DeryaTR_/status/2104051752509300737",
+      "hook": "Emotional AI watch-warning post \u2014 33.9K.",
+      "text": "Ohhh! Opus 5.5, what hast thou done?! I am speechless. I felt such deep sadness watching this. Warning: \u203c\ufe0f it will make you cry. \ud83d\ude22",
+      "draft_en": "Emotion-first AI posts travel when the warning is the hook.\n\nFor a health desk this is meta, not a topic to chase. Note the pattern: feeling \u2192 model name \u2192 \u201cwatch this.\u201d",
+      "video_tip": "Skip unless the clip is metabolic/health. Pattern only."
+    },
+    {
+      "display_name": "Derya Unutmaz, MD",
+      "handle": "@DeryaTR_",
+      "views": 8864,
+      "views_label": "8.9K",
+      "highlight": false,
+      "url": "https://x.com/DeryaTR_/status/2104081597154930938",
+      "status_url": "https://x.com/DeryaTR_/status/2104081597154930938",
+      "hook": "Aphorism + model credit.",
+      "text": "\u201cFear counts the dangers of change more easily than it counts the lives lost to leaving things unchanged.\u201d GPT-6 Pro",
+      "draft_en": "Quote cards still work when the line is sharp and the attribution is clean.\n\nHealth angle: fear of changing diet vs lives lost to the status quo.",
+      "video_tip": "Static quote card, 8s, high contrast. End with your handle."
+    },
+    {
+      "display_name": "Derya Unutmaz, MD",
+      "handle": "@DeryaTR_",
+      "views": 8147,
+      "views_label": "8.1K",
+      "highlight": false,
+      "url": "https://x.com/DeryaTR_/status/2104300661315883091",
+      "status_url": "https://x.com/DeryaTR_/status/2104300661315883091",
+      "hook": "AI solves game creation thesis \u2014 longform enthusiasm.",
+      "text": "We are about to witness the biggest explosion of creativity in gaming history! And I believe AI has essentially solved game creation. I\u2019ll soon share a much-improved, bloodier, and gorier version of the DOOM game I\u2019ve been building with GPT-6 Astra. What AI can create today is absolutely INSANE! Anyone can now build the games of their dreams or reimagine and improve the games they grew up loving. I\u2019m convinced that by next year, a single person will be able to create AAA games that currently take studios hundreds of developers, tens of millions of dollars, and years to produce! And gaming is about so much more than entertainment. Games are how we first learn about the world as children. They are extraordinary simulation environments for learning, experimentation, imagination, and creativity. Imagine a world where billions of people can create entire universes, limited only by their imagination!",
+      "draft_en": "Off-niche for metabolic health, useful as outsider meta: \u201cone person can now ship what took studios.\u201d\n\nIf you borrow it, map to patient education: one clinician shipping interactive explainers.",
+      "video_tip": "Only if you cut to a health sim / explainer build, not DOOM gore."
+    }
+  ],
   "virals": [],
   "outsiders": [],
-  "patterns": [],
-  "no_hits": [],
-  "virals_narrative": "Short outsider synthesis goes here.",
-  "narrative_synthesis": "Short outsider synthesis goes here.",
-  "virals_window": "last ~48h",
+  "patterns": [
+    "Hospital-food history arcs (animal foods for the sick \u2192 modern tray) crush when paced as a timeline.",
+    "Dialogue / Q&A format exposes diet mistakes (rabbit starvation misread as carb need).",
+    "Metaphor posts (LDL as delivery van; diet as tool not religion) travel when one image carries the argument.",
+    "Mechanism + PMID + \u201cadult choice\u201d closer outperforms purity fights on sweeteners and carnivore.",
+    "Sleep-disguised-as-attention is a high-curiosity science hook with a clear first action.",
+    "Ultra-short teaser lines (Huberman) win on media-first posts; steal structure, not emptiness."
+  ],
+  "no_hits": [
+    {
+      "handle": "@PeterDiamandis",
+      "reason": "Recent originals still under 5k (max ~4,815 in window).",
+      "max_views": 4815
+    },
+    {
+      "handle": "@THEBENAZADI",
+      "reason": "Recent originals under 500 views in window.",
+      "max_views": 475
+    },
+    {
+      "handle": "@BrianRoemmele",
+      "reason": "Very fresh originals under 3k (max ~2,740).",
+      "max_views": 2740
+    }
+  ],
+  "virals_narrative": "Test run skipped the full ~20 outsider AI scrape; Huberman/Derya shorts stand in as media-meta notes.",
+  "narrative_synthesis": "Metabolic watchlist is hot on animal-food history, fat vs lean cuts, sweetener-microbiome, and sleep-as-attention. Short teaser posts from Huberman dominate raw views but offer less reusable science copy.",
+  "virals_window": "test run \u00b7 ~1\u20132 days",
   "virals_target": 20,
-  "hits_count": 0,
+  "hits_count": 12,
   "outsiders_count": 0,
   "previous_day": {
     "date": "2026-09-14",
@@ -80,6 +260,58 @@
   "ui": {
     "default_theme": "night"
   },
-  "day_roster": [],
-  "you_rank": null
+  "day_roster": [
+    {
+      "handle": "@hubermanlab",
+      "name": "Andrew D. Huberman, Ph.D.",
+      "views": 266716,
+      "total_views": 557535,
+      "hit": true
+    },
+    {
+      "handle": "@nicknorwitz",
+      "name": "Nick Norwitz MD PhD",
+      "views": 51114,
+      "total_views": 65286,
+      "hit": true
+    },
+    {
+      "handle": "@DeryaTR_",
+      "name": "Derya Unutmaz, MD",
+      "views": 33951,
+      "total_views": 50962,
+      "hit": true
+    },
+    {
+      "handle": "@SamaHoole",
+      "name": "Sama Hoole",
+      "views": 15108,
+      "total_views": 34382,
+      "hit": true
+    },
+    {
+      "handle": "@PeterDiamandis",
+      "name": "Peter Diamandis",
+      "views": 4815,
+      "total_views": 4815,
+      "hit": false
+    },
+    {
+      "handle": "@BrianRoemmele",
+      "name": "Brian Roemmele",
+      "views": 2740,
+      "total_views": 2740,
+      "hit": false
+    },
+    {
+      "handle": "@THEBENAZADI",
+      "name": "Ben Azadi",
+      "views": 475,
+      "total_views": 475,
+      "hit": false
+    }
+  ],
+  "you_rank": null,
+  "x_score": 100,
+  "day_target": "DONE"
 }
